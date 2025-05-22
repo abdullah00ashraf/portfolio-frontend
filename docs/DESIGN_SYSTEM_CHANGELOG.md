@@ -99,3 +99,8 @@ This document tracks verified architectural iterations, feature additions, and p
 - **Status**: Verified & Integrated into `main`
 - **Timestamp**: `2025-05-20T20:47:05+0530`
 
+### [2025-05-22 11:31 IST] - `perf(assets): convert project thumbnail gallery to WebP with srcset`
+- **Component**: React + Vite UI Layer
+- **Status**: Verified & Integrated into `main`
+- **Timestamp**: `2025-05-22T11:31:05+0530`
+
