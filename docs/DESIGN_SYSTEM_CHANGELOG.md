@@ -119,3 +119,8 @@ This document tracks verified architectural iterations, feature additions, and p
 - **Status**: Verified & Integrated into `main`
 - **Timestamp**: `2025-06-10T12:49:50+0530`
 
+### [2025-06-20 19:22 IST] - `docs(styleguide): document core design system tokens and component specs`
+- **Component**: React + Vite UI Layer
+- **Status**: Verified & Integrated into `main`
+- **Timestamp**: `2025-06-20T19:22:18+0530`
+
