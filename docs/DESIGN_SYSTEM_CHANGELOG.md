@@ -139,3 +139,8 @@ This document tracks verified architectural iterations, feature additions, and p
 - **Status**: Verified & Integrated into `main`
 - **Timestamp**: `2025-06-27T12:04:43+0530`
 
+### [2025-07-02 18:15 IST] - `feat(animations): add Framer Motion layout animations on tab switch`
+- **Component**: React + Vite UI Layer
+- **Status**: Verified & Integrated into `main`
+- **Timestamp**: `2025-07-02T18:15:26+0530`
+
