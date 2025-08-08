@@ -159,3 +159,8 @@ This document tracks verified architectural iterations, feature additions, and p
 - **Status**: Verified & Integrated into `main`
 - **Timestamp**: `2025-07-13T22:37:11+0530`
 
+### [2025-08-08 10:24 IST] - `feat(accessibility): add ARIA attributes and full keyboard navigation`
+- **Component**: React + Vite UI Layer
+- **Status**: Verified & Integrated into `main`
+- **Timestamp**: `2025-08-08T10:24:42+0530`
+
