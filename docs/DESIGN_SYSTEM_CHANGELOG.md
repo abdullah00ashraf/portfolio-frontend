@@ -189,3 +189,8 @@ This document tracks verified architectural iterations, feature additions, and p
 - **Status**: Verified & Integrated into `main`
 - **Timestamp**: `2025-09-04T15:31:21+0530`
 
+### [2025-09-07 16:13 IST] - `refactor(theme): migrate design tokens to CSS variables for dynamic mode`
+- **Component**: React + Vite UI Layer
+- **Status**: Verified & Integrated into `main`
+- **Timestamp**: `2025-09-07T16:13:33+0530`
+
