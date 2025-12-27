@@ -254,3 +254,8 @@ This document tracks verified architectural iterations, feature additions, and p
 - **Status**: Verified & Integrated into `main`
 - **Timestamp**: `2025-12-14T13:09:45+0530`
 
+### [2025-12-27 17:07 IST] - `perf(webgl): lazy-load 3D hero background to optimize First Contentful Paint`
+- **Component**: React + Vite UI Layer
+- **Status**: Verified & Integrated into `main`
+- **Timestamp**: `2025-12-27T17:07:55+0530`
+
