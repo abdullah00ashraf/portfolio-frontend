@@ -329,3 +329,8 @@ This document tracks verified architectural iterations, feature additions, and p
 - **Status**: Verified & Integrated into `main`
 - **Timestamp**: `2026-05-15T22:08:38+0530`
 
+### [2026-05-21 12:00 IST] - `style(typography): update heading letter-spacing and font hierarchy`
+- **Component**: React + Vite UI Layer
+- **Status**: Verified & Integrated into `main`
+- **Timestamp**: `2026-05-21T12:00:21+0530`
+
