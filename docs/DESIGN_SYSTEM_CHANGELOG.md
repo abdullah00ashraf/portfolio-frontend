@@ -404,3 +404,8 @@ This document tracks verified architectural iterations, feature additions, and p
 - **Status**: Verified & Integrated into `main`
 - **Timestamp**: `2026-08-12T15:45:52+0530`
 
+### [2026-08-13 14:50 IST] - `fix(nav): correct mobile drawer scroll lock on iOS viewports`
+- **Component**: React + Vite UI Layer
+- **Status**: Verified & Integrated into `main`
+- **Timestamp**: `2026-08-13T14:50:38+0530`
+
