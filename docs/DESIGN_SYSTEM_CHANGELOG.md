@@ -439,3 +439,8 @@ This document tracks verified architectural iterations, feature additions, and p
 - **Status**: Verified & Integrated into `main`
 - **Timestamp**: `2026-09-11T22:27:14+0530`
 
+### [2026-09-12 11:30 IST] - `test(components): add Vitest unit assertions for project filter tabs`
+- **Component**: React + Vite UI Layer
+- **Status**: Verified & Integrated into `main`
+- **Timestamp**: `2026-09-12T11:30:57+0530`
+
