@@ -50,3 +50,5 @@ Thumbs.db
 .node_repl_history
 *.tgz
 .yarn-integrity
+
+.vercel
